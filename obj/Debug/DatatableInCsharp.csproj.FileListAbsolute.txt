@@ -1,0 +1,7 @@
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\bin\Debug\DatatableInCsharp.exe.config
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\bin\Debug\DatatableInCsharp.exe
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\bin\Debug\DatatableInCsharp.pdb
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\obj\Debug\DatatableInCsharp.csproj.AssemblyReference.cache
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\obj\Debug\DatatableInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\obj\Debug\DatatableInCsharp.exe
+C:\Users\ALTIUS\source\repos\DatatableInCsharp\obj\Debug\DatatableInCsharp.pdb
