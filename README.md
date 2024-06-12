@@ -6,3 +6,22 @@
 
 ```csharp
 DataTable dtEmployee = new DataTable();
+
+## What is DataColumn ?
+
+- A DataColumn defines a column in a DataTable. It specifies the type of data that can be stored in that column, such as integers, strings, dates, etc.
+- A DataColumn is like a single column in a table. It holds one type of information.
+
+```csharp
+            dtEmployee.Columns.Add();
+
+            DataColumn colEmpName = new DataColumn();
+            colEmpName.ColumnName = "EmpId";
+
+## What is DataSet ?
+
+- A DataSet is a collection of DataTable objects. Think of it as a container that can hold multiple tables, along with their relationships. A DataSet can represent a complete set of data, including tables, their relations, and constraints.
+
+```csharp
+                 DataSet dataSet = new DataSet("School");  // school dataset name
+                 dataSet.Tables.Add(dtEmployee);.  // dtEmployee datatable name
